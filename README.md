@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Olá, eu sou André Borges
+# 👋 Olá, me chamo André Borges
 
 ### 💻 Backend Developer | Full Stack Developer
 
