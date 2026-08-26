@@ -17,6 +17,9 @@
 Sou desenvolvedor com experiência em **desenvolvimento Full Stack**, atualmente
 atuando como **Estagiário em Desenvolvimento na Solve4ME**, em **Votorantim - SP**.
 
+No meu dia a dia, desenvolvo aplicações e integrações com o **Genesys Cloud**,
+criando soluções utilizadas em projetos para grandes clientes, como **Petrobras** e **Banco Safra**.
+
 Atualmente meu foco principal está no desenvolvimento **Backend com TypeScript e Node.js**,
 trabalhando com **APIs, integrações entre sistemas, bancos de dados, Docker e AWS**.
 
@@ -28,7 +31,7 @@ trabalhando com **APIs, integrações entre sistemas, bancos de dados, Docker e 
 
 <br><br>
 
-`TypeScript` · `JavaScript` · `Node.js` · `PostgreSQL` · `Docker` · `AWS EC2` · `AWS S3`
+`TypeScript` · `JavaScript` · `Node.js` · `PostgreSQL` · `Docker` · `AWS EC2` · `AWS S3` · `Genesys Cloud`
 
 </div>
 
