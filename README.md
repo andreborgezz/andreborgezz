@@ -2,29 +2,11 @@
 
 # 👋 Olá, eu sou André Borges
 
-### 💻 Backend Developer • Full Stack Developer
+### 💻 Backend Developer | Full Stack Developer
 
 <p>
-  <strong>TypeScript • Node.js • APIs • System Integrations</strong>
+  <strong>TypeScript • JavaScript • Node.js • PostgreSQL • Docker • AWS</strong>
 </p>
-
-<p>
-  Desenvolvedor focado em backend e atualmente aprofundando meus estudos
-  no ecossistema <strong>TypeScript + Node.js</strong>.
-</p>
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=ts,nodejs,reactnative,docker,postgres,aws" />
-
-<br><br>
-
-<a href="https://github.com/andreborgezz">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
 
 </div>
 
@@ -32,243 +14,75 @@
 
 ## 🧑‍💻 Sobre mim
 
-💻 **Backend Developer**
-🔌 **API & System Integrations**
-🐳 **Docker**
-🗄️ **PostgreSQL**
-⚡ **Node.js + TypeScript**
-📱 **React Native**
-☁️ **AWS — ECS & S3**
+Sou desenvolvedor com experiência em **desenvolvimento Full Stack**, atualmente
+atuando como **Estagiário em Desenvolvimento na Solve4ME**, em **Votorantim - SP**.
 
-Atualmente trabalho como **Estagiário em Desenvolvimento na Solve4ME**, em
-**Votorantim — SP**, atuando no desenvolvimento de sistemas e integrações.
+Atualmente meu foco principal está no desenvolvimento **Backend com TypeScript e Node.js**,
+trabalhando com **APIs, integrações entre sistemas, bancos de dados, Docker e AWS**.
 
-Tenho experiência com **desenvolvimento Full Stack**, mas atualmente meu foco
-principal de evolução está no **Backend com TypeScript e Node.js**.
-
-Meu objetivo é aprofundar cada vez mais meus conhecimentos em arquitetura,
-APIs, integrações entre sistemas, banco de dados, escalabilidade e boas
-práticas de desenvolvimento backend.
-
----
-
-## 🚀 Atualmente estudando
+### 🚀 Principais tecnologias
 
 <div align="center">
 
-### `TypeScript` + `Node.js` + `Backend`
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs,postgres,docker,aws" />
 
-<br>
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=ts,nodejs,postgres,docker" />
+`TypeScript` · `JavaScript` · `Node.js` · `PostgreSQL` · `Docker` · `AWS EC2` · `AWS S3`
 
 </div>
 
-<br>
-
-Estou direcionando meus estudos principalmente para:
-
-* 🧠 TypeScript avançado
-* ⚡ Desenvolvimento de APIs com Node.js
-* 🏗️ Arquitetura e organização de aplicações backend
-* 🔌 Integração entre sistemas e APIs
-* 🔐 Autenticação e autorização
-* 🗄️ PostgreSQL e modelagem de dados
-* 🐳 Docker e ambientes containerizados
-* ☁️ AWS e infraestrutura para aplicações
-* 📈 Escalabilidade e boas práticas
-
----
-
-# 🛠️ Tech Stack
+### 🧰 Algumas ferramentas que também tenho experiência
 
 <div align="center">
 
-### ⚡ Backend
-
-<img src="https://skillicons.dev/icons?i=ts,nodejs" />
+<img src="https://skillicons.dev/icons?i=java,spring,react,mysql" />
 
 <br><br>
 
-`TypeScript` `Node.js` `REST APIs` `System Integrations`
-
-<br><br>
-
-### 📱 Frontend & Mobile
-
-<img src="https://skillicons.dev/icons?i=react,reactnative" />
-
-<br><br>
-
-`React` `React Native`
-
-<br><br>
-
-### 🗄️ Database
-
-<img src="https://skillicons.dev/icons?i=postgres" />
-
-<br><br>
-
-`PostgreSQL`
-
-<br><br>
-
-### ☁️ Cloud & Infrastructure
-
-<img src="https://skillicons.dev/icons?i=docker,aws" />
-
-<br><br>
-
-`Docker` `AWS ECS` `AWS S3`
+`Java` · `Spring Boot` · `React / TSX` · `SQL Server` · `MySQL` · `Power BI`
 
 </div>
-
----
-
-# 💼 Experiência
-
-### 🏢 Solve4ME
-
-**Estagiário em Desenvolvimento**
-📍 Votorantim — SP
-
-Atuação no desenvolvimento de soluções, integrações e sistemas,
-com foco crescente no ecossistema **Node.js + TypeScript**.
-
-<br>
-
-### 🧩 Experiência
-
-Ao longo da minha formação e experiência profissional, venho trabalhando
-com diferentes áreas do desenvolvimento de software, incluindo:
-
-* Desenvolvimento Backend
-* Desenvolvimento Full Stack
-* Desenvolvimento de APIs
-* Integrações entre sistemas
-* Integração com serviços externos
-* Desenvolvimento Mobile
-* Banco de dados relacionais
-* Containerização com Docker
-* Serviços AWS
 
 ---
 
 # ⭐ Projetos
 
-> Alguns projetos desenvolvidos durante minha trajetória acadêmica,
-> profissional e pessoal.
-
-<br>
-
 ## 📍 API de Consulta e Integração de CEP
 
-<div align="center">
+> API REST desenvolvida com **Node.js + Express** para consulta e padronização
+> de endereços através da API pública **ViaCEP**.
 
-### 🔌 Microsserviço de busca e padronização de endereços
+O projeto recebe um CEP, realiza sua sanitização e validação, consulta o serviço
+externo e retorna os dados tratados em formato JSON.
 
-</div>
+Também conta com **containerização utilizando Docker** e deploy da API em produção.
 
-### 📌 Descrição
-
-API REST desenvolvida com **Node.js** e **Express**, criada para atuar como
-um microsserviço intermediário de busca e padronização de endereços.
-
-A aplicação recebe um CEP, realiza sua **sanitização e validação**, consulta
-os dados oficiais do **ViaCEP** e retorna uma resposta limpa e estruturada
-em formato JSON.
-
-O projeto também foi **containerizado com Docker**, permitindo executar a
-aplicação de forma consistente em diferentes ambientes.
-
-### 🔄 Fluxo da aplicação
+### 🛠️ Stack
 
 <div align="center">
 
-```text
-📥 CEP recebido
-      ↓
-🧹 Sanitização
-      ↓
-✅ Validação
-      ↓
-🔌 Consulta ao ViaCEP
-      ↓
-🧹 Tratamento da resposta
-      ↓
-📤 JSON estruturado
-```
-
-</div>
-
-### 🧰 Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,axios,docker" />
+<img src="https://skillicons.dev/icons?i=nodejs,docker" />
 
 <br><br>
 
-`Node.js` · `Express` · `Axios` · `Docker` · `REST API` · `JSON`
+`Node.js` · `Express` · `Axios` · `Docker` · `REST API`
 
 </div>
 
 ### ✨ Destaques
 
-* 🔌 API REST desenvolvida com Node.js e Express
-* 🧹 Sanitização automática do CEP
-* ✅ Validação de formato antes da consulta externa
-* 🌐 Integração com a API pública ViaCEP
-* ⚡ Comunicação assíncrona utilizando `async/await`
-* 🛡️ Tratamento de erros e exceções
-* 📦 Respostas estruturadas em JSON
-* 🐳 Aplicação totalmente containerizada com Docker
-* ☁️ Deploy da API em produção
-
-### 🌐 Deploy
+* 🔌 API REST
+* 🧹 Sanitização e validação de CEP
+* 🌐 Integração com ViaCEP
+* ⚡ Programação assíncrona com `async/await`
+* 🐳 Docker
+* ☁️ Deploy em produção
 
 <div align="center">
 
-<a href="https://busca-cep-b1ak.onrender.com">
-  <img src="https://img.shields.io/badge/🚀_API_em_produção-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
-</a>
-
-</div>
-
-<br>
-
-> ⚠️ A API está hospedada no plano gratuito do Render. Após um período de
-> inatividade, o serviço pode entrar em estado de suspensão e a primeira
-> requisição pode levar alguns segundos para responder.
-
-### 🧪 Exemplo
-
-```http
-GET /cep/18110650
-```
-
-Resposta:
-
-```json
-{
-  "cep": "18110650",
-  "logradouro": "Avenida Gisele Constantino",
-  "bairro": "Parque Bela Vista",
-  "localidade": "Votorantim",
-  "uf": "SP",
-  "estado": "São Paulo",
-  "regiao": "Sudeste",
-  "ddd": "15"
-}
-```
-
-### 🔗 Projeto
-
-<div align="center">
-
-<a href="https://github.com/andreborgezz/CotaHub">
-  <img src="https://img.shields.io/badge/💻_Ver_repositório-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/andreborgezz/busca-cep">
+  <img src="https://img.shields.io/badge/💻_Repositório-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://busca-cep-b1ak.onrender.com">
@@ -279,109 +93,50 @@ Resposta:
 
 ---
 
-## 🟣 Projeto 02 — Em breve
+## 💱 CotaHub
 
-### 📌 Descrição
+> Projeto desenvolvido para praticar conceitos de **desenvolvimento Backend com Node.js**,
+> criação de endpoints, tratamento de dados, Docker e deploy de aplicações.
 
-> Adicione aqui uma descrição curta e interessante do projeto.
+A aplicação realiza consultas utilizando a API pública **DolarAPI**, permitindo
+obter informações atualizadas sobre moedas utilizadas na América do Sul.
 
-### 🧰 Stack
+### 🛠️ Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,nodejs,postgres,docker" />
+<img src="https://skillicons.dev/icons?i=nodejs,docker,ts" />
 
 <br><br>
 
-`TypeScript` · `Node.js` · `PostgreSQL` · `Docker`
+`Node.js` · `Docker` · `REST API` · `Swagger`
 
 </div>
 
 ### ✨ Destaques
 
-* 🚀 ...
-* 🔌 ...
-* 🗄️ ...
+* 🔌 Criação de endpoints
+* 📊 Consulta de cotações em tempo real
+* 🌐 Integração com API externa
+* 📚 Documentação com Swagger
+* 🐳 Containerização com Docker
+* 🚀 Deploy utilizando Docker
 
-<br>
+### 💰 Moedas consultadas
+
+`Dólar` · `Euro` · `Peso Argentino` · `Peso Chileno` · `Peso Uruguaio`
 
 <div align="center">
 
-<a href="#">
-  <img src="https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/andreborgezz/CotaHub">
+  <img src="https://img.shields.io/badge/💻_Repositório-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
 
 ---
 
-## 🔵 Projeto 03 — Em breve
-
-### 📌 Descrição
-
-> Adicione aqui uma descrição curta do projeto.
-
-### 🧰 Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=ts,nodejs,aws,docker" />
-
-<br><br>
-
-`TypeScript` · `Node.js` · `AWS ECS` · `AWS S3` · `Docker`
-
-</div>
-
-### ✨ Destaques
-
-* ☁️ ...
-* ⚡ ...
-* 🔌 ...
-
-<br>
-
-<div align="center">
-
-<a href="#">
-  <img src="https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=andreborgezz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-/>
-
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreborgezz&layout=compact&theme=tokyonight&hide_border=true"
-/>
-
-</div>
-
-<br>
-
----
-
-# 🐍 My Contributions
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/andreborgezz/andreborgezz/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-
-</div>
-
----
-
-# 📫 Entre em contato
+# 📫 Links de contato
 
 <div align="center">
 
@@ -393,16 +148,16 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreborgezz
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
+<br><br>
+
+**GitHub** · **LinkedIn**
+
 </div>
 
 <br>
 
 <div align="center">
 
-### 🚀 Construindo, aprendendo e transformando ideias em código.
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=andreborgezz&style=flat-square&color=blueviolet" alt="Profile views" />
+### 🚀 Desenvolvendo, aprendendo e transformando ideias em código.
 
 </div>
