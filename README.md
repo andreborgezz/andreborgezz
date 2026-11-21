@@ -35,9 +35,9 @@ No dia a dia trabalho com **TypeScript, React, Docker e AWS**.
 
 <img src="assets/contributions.svg" alt="Contribuições no GitHub nos últimos 12 meses" width="860" />
 
-## Linguagens por projeto
+## Linguagens
 
-<img src="assets/languages.svg" alt="Linguagens por projeto" width="860" />
+<img src="assets/languages.svg" alt="Linguagens mais usadas no GitHub" width="860" />
 
 ---
 

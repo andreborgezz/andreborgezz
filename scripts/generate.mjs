@@ -93,46 +93,50 @@ async function contributions() {
   return card(width, height, out);
 }
 
-// ---------- Linguagens por projeto ----------
+// ---------- Linguagens (todos os repositorios) ----------
 async function languages() {
   const data = await gql(
     `query($login:String!){
-      user(login:$login){ repositories(first:100, ownerAffiliations:OWNER, privacy:PUBLIC, isFork:false, orderBy:{field:PUSHED_AT,direction:DESC}){
-        nodes{ name languages(first:10, orderBy:{field:SIZE,direction:DESC}){ edges{ size node{ name color } } } } } } }`,
+      user(login:$login){ repositories(first:100, ownerAffiliations:OWNER, isFork:false){
+        nodes{ name languages(first:20, orderBy:{field:SIZE,direction:DESC}){ edges{ size node{ name color } } } } } } }`,
     { login },
   );
-  const repos = data.user.repositories.nodes
-    .filter((r) => r.name.toLowerCase() !== login.toLowerCase() && r.languages.edges.length)
-    .slice(0, 8);
-
-  const width = 860, padX = 22, barW = width - padX * 2, rowH = 64, top = 54;
-  const height = top + Math.max(repos.length, 1) * rowH + 10;
-  let out = `<text x="${padX}" y="30" fill="${C.title}" font-size="18" font-weight="700">Linguagens por projeto</text>`;
-
-  if (!repos.length) {
-    out += `<text x="${padX}" y="${top + 24}" fill="${C.muted}" font-size="12">Nenhum repositório público com código ainda.</text>`;
+  const totals = new Map();
+  for (const repo of data.user.repositories.nodes) {
+    for (const e of repo.languages.edges) {
+      const cur = totals.get(e.node.name) ?? { size: 0, color: e.node.color || '#8b98a9' };
+      cur.size += e.size;
+      totals.set(e.node.name, cur);
+    }
   }
+  const all = [...totals.entries()].map(([name, v]) => ({ name, ...v })).sort((a, b) => b.size - a.size);
+  const sum = all.reduce((s, l) => s + l.size, 0) || 1;
+  const top = all.slice(0, 8);
+  const rest = all.slice(8).reduce((s, l) => s + l.size, 0);
+  if (rest > 0) top.push({ name: 'Outras', size: rest, color: '#8b98a9' });
 
-  repos.forEach((repo, i) => {
-    const y = top + i * rowH;
-    const total = repo.languages.edges.reduce((s, e) => s + e.size, 0);
-    out += `<text x="${padX}" y="${y + 12}" fill="${C.text}" font-size="13" font-weight="600">${esc(repo.name)}</text>`;
-    out += `<clipPath id="c${i}"><rect x="${padX}" y="${y + 20}" width="${barW}" height="8" rx="4"/></clipPath><g clip-path="url(#c${i})">`;
-    let x = padX;
-    repo.languages.edges.forEach((e) => {
-      const w = (e.size / total) * barW;
-      out += `<rect x="${x.toFixed(2)}" y="${y + 20}" width="${w.toFixed(2)}" height="8" fill="${e.node.color || '#8b98a9'}"/>`;
-      x += w;
-    });
-    out += `</g>`;
-    let lx = padX;
-    repo.languages.edges.forEach((e) => {
-      const pct = ((e.size / total) * 100).toFixed(1);
-      const label = `${e.node.name} ${pct}%`;
-      out += `<circle cx="${lx + 4}" cy="${y + 43}" r="4" fill="${e.node.color || '#8b98a9'}"/>`;
-      out += `<text x="${lx + 13}" y="${y + 47}" fill="${C.muted}" font-size="11">${esc(label)}</text>`;
-      lx += 13 + label.length * 6.2 + 16;
-    });
+  const width = 860, padX = 22, barW = width - padX * 2;
+  const rows = Math.ceil(top.length / 2);
+  const height = 112 + rows * 26;
+  let out = `<text x="${padX}" y="30" fill="${C.title}" font-size="18" font-weight="700">Linguagens mais usadas</text>`;
+  out += `<text x="${padX}" y="50" fill="${C.sub}" font-size="11">Somando todos os repositórios do GitHub</text>`;
+
+  out += `<clipPath id="bar"><rect x="${padX}" y="66" width="${barW}" height="10" rx="5"/></clipPath><g clip-path="url(#bar)">`;
+  let x = padX;
+  top.forEach((l) => {
+    const w = (l.size / sum) * barW;
+    out += `<rect x="${x.toFixed(2)}" y="66" width="${w.toFixed(2)}" height="10" fill="${l.color}"/>`;
+    x += w;
+  });
+  out += `</g>`;
+
+  top.forEach((l, i) => {
+    const col = i % 2, row = Math.floor(i / 2);
+    const lx = padX + col * (barW / 2), ly = 104 + row * 26;
+    const pct = ((l.size / sum) * 100).toFixed(1);
+    out += `<circle cx="${lx + 5}" cy="${ly - 4}" r="5" fill="${l.color}"/>`;
+    out += `<text x="${lx + 18}" y="${ly}" fill="${C.text}" font-size="13">${esc(l.name)}</text>`;
+    out += `<text x="${lx + barW / 2 - 24}" y="${ly}" fill="${C.muted}" font-size="12" text-anchor="end">${pct}%</text>`;
   });
 
   return card(width, height, out);
