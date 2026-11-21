@@ -31,6 +31,7 @@ Além do trabalho na Solve4ME, presto serviços de **sites, lojas virtuais e sis
 ### Principais tecnologias
 
 <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,postgres,docker,aws,gcp,cloudflare" />
+<img src="assets/genesys.svg" alt="Genesys Cloud" height="48" />
 
 `TypeScript` · `JavaScript` · `Node.js` · `Express` · `PostgreSQL` · `Docker` · `AWS EC2` · `AWS S3` · `Google Cloud` · `Cloudflare` · `Genesys Cloud`
 
