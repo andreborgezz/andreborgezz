@@ -1,8 +1,13 @@
-# Olá, me chamo André Borges
+# André Borges
 
-**Backend Developer | Full Stack Developer**
+Desenvolvedor na **Solve4ME** · Votorantim, SP
 
-TypeScript · JavaScript · Node.js · PostgreSQL · Docker · AWS
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
+<img src="https://img.shields.io/badge/Genesys_Cloud-FF4F1F?style=flat-square" alt="Genesys Cloud" />
 
 ---
 
@@ -28,6 +33,29 @@ No dia a dia trabalho com **TypeScript, React, Docker e AWS**.
 <img src="https://skillicons.dev/icons?i=java,spring,react,mysql" />
 
 `Java` · `Spring Boot` · `React / TSX` · `SQL Server` · `MySQL` · `Power BI`
+
+---
+
+## Formação
+
+<table>
+  <tr>
+    <td width="72"><img src="assets/facens.svg" alt="Facens" width="56" /></td>
+    <td>
+      <strong>Centro Universitário Facens</strong><br />
+      Curso Superior de Tecnologia (CST) em Administração e Gestão de Tecnologia da Informação<br />
+      <sub>jan. 2025 – jul. 2027</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="72"><img src="assets/senai.svg" alt="Senai São Paulo" width="56" /></td>
+    <td>
+      <strong>Senai São Paulo</strong><br />
+      Desenvolvimento de Sistemas · Ensino técnico integrado<br />
+      <sub>jan. 2023 – dez. 2024</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
