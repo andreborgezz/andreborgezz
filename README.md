@@ -8,9 +8,11 @@ TypeScript · JavaScript · Node.js · PostgreSQL · Docker · AWS
 
 ## Sobre mim
 
-Sou estagiário em desenvolvimento na **Solve4ME**, em **Votorantim - SP**, onde desenvolvo
-soluções utilizando serviços e integrações com a **Genesys Cloud**, em projetos para grandes
-clientes como **Petrobras** e **Banco Safra**.
+Sou desenvolvedor na **Solve4ME**, em **Votorantim - SP**, onde desenvolvo aplicações e
+soluções utilizando serviços e integrações com a **Genesys Cloud**.
+
+Tenho contribuições em produtos da empresa, como **Upload4ME**, **Tools4ME** e aplicações de
+consulta à base de conhecimento de inteligência de bots de atendimento.
 
 No dia a dia trabalho com **TypeScript, React, Docker e AWS**.
 
