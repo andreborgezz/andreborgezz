@@ -1,6 +1,6 @@
 # André Borges
 
-Desenvolvedor na **Solve4ME** · Votorantim, SP
+Desenvolvedor Back-end na **Solve4ME** · Votorantim, SP
 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
@@ -13,26 +13,32 @@ Desenvolvedor na **Solve4ME** · Votorantim, SP
 
 ## Sobre mim
 
-Sou desenvolvedor na **Solve4ME**, em **Votorantim - SP**, onde desenvolvo aplicações e
-soluções utilizando serviços e integrações com a **Genesys Cloud**.
+Sou desenvolvedor Back-end na **Solve4ME**, onde crio aplicações eficientes e integrações de APIs
+com **TypeScript, Node.js e PostgreSQL**.
+
+Desenvolvo soluções com a **Genesys Cloud API**, como Conversations, Auth, Data Actions e integração
+de fluxos e áudios, além de customizar aplicações para clientes. Também faço o deploy e o
+gerenciamento dessas aplicações em containers **Docker** na **AWS (EC2 e S3)**, com **CI/CD** e
+ambientes **Linux**.
 
 Tenho contribuições em produtos da empresa, como **Upload4ME**, **Tools4ME** e aplicações de
 consulta à base de conhecimento de inteligência de bots de atendimento.
 
-No dia a dia trabalho com **TypeScript, React, Docker e AWS**.
+No Front-end, uso **React e TypeScript**. Venho de uma base sólida em Suporte e Infraestrutura de TI,
+o que me deu visão sistêmica de redes e monitoramento.
 
 ### Principais tecnologias
 
-<img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,postgres,docker,aws,gcp,cloudflare" />
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,react,postgres,docker,aws,linux,githubactions,gcp,cloudflare" />
 <img src="assets/genesys.svg" alt="Genesys Cloud" height="48" />
 
-`TypeScript` · `JavaScript` · `Node.js` · `Express` · `PostgreSQL` · `Docker` · `AWS EC2` · `AWS S3` · `Google Cloud` · `Cloudflare` · `Genesys Cloud`
+`TypeScript` · `JavaScript` · `Node.js` · `Express` · `React` · `PostgreSQL` · `Docker` · `Linux` · `CI/CD` · `AWS EC2` · `AWS S3` · `Google Cloud` · `Cloudflare` · `Genesys Cloud`
 
 ### Outras ferramentas com que tenho experiência
 
-<img src="https://skillicons.dev/icons?i=java,spring,react,mysql" />
+<img src="https://skillicons.dev/icons?i=java,spring,mysql" />
 
-`Java` · `Spring Boot` · `React / TSX` · `SQL Server` · `MySQL` · `Power BI`
+`Java` · `Spring Boot` · `SQL Server` · `MySQL` · `Power BI`
 
 ---
 
