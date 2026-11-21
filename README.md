@@ -1,22 +1,31 @@
-<img src="assets/banner.svg" alt="André Borges, Desenvolvedor Back-end e Full Stack" width="860" />
+<p align="center">
+  <img src="assets/banner.svg" alt="André Borges, Desenvolvedor Back-end" width="860" />
+</p>
 
-<a href="https://github.com/andreborgezz"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/andre-borgess"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://www.instagram.com/andreborgezz/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-<a href="https://www.orbit-io.com.br/"><img src="assets/orbit.svg" alt="Orbit" height="28" align="top" /></a>
+<p align="center">
+  <a href="https://github.com/andreborgezz"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/andre-borgess"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/andreborgezz/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.orbit-io.com.br/"><img src="assets/orbit.svg" alt="Orbit" height="28" align="top" /></a>
+</p>
 
-## Sobre mim
+<h2 align="center">Sobre mim</h2>
 
-Sou desenvolvedor Back-end e atuo como **Full Stack**: trabalho com back-end, front-end, infraestrutura e o que mais o projeto pedir.
+<p align="center">Sou desenvolvedor Back-end e atuo como <strong>Full Stack</strong>: trabalho com back-end, front-end, infraestrutura e o que mais o projeto pedir.</p>
 
-- **Back-end:** crio aplicações eficientes e integrações de APIs com **TypeScript, Node.js e PostgreSQL**.
-- **Genesys Cloud:** desenvolvo soluções com a Genesys Cloud API (Conversations, Auth, Data Actions, fluxos e áudios) e customizo aplicações para clientes.
-- **Infra e deploy:** gerencio aplicações em containers **Docker** na **AWS (EC2 e S3)**, com **CI/CD** e ambientes **Linux**.
-- **Produtos:** contribuo em produtos da Solve4ME, como **Upload4ME**, **Tools4ME** e aplicações de consulta à base de conhecimento de inteligência de bots de atendimento.
-- **Front-end:** uso **React e TypeScript** nas aplicações que desenvolvo.
-- **Origem:** venho de uma base sólida em Suporte e Infraestrutura de TI, com visão sistêmica de redes e monitoramento.
+<p align="center"><strong>Back-end:</strong> crio aplicações eficientes e integrações de APIs com <strong>TypeScript, Node.js e PostgreSQL</strong>.</p>
 
-## Tecnologias
+<p align="center"><strong>Genesys Cloud:</strong> desenvolvo soluções com a Genesys Cloud API (Conversations, Auth, Data Actions, fluxos e áudios) e customizo aplicações para clientes.</p>
+
+<p align="center"><strong>Infra e deploy:</strong> gerencio aplicações em containers <strong>Docker</strong> na <strong>AWS (EC2 e S3)</strong>, com <strong>CI/CD</strong> e ambientes <strong>Linux</strong>.</p>
+
+<p align="center"><strong>Produtos:</strong> contribuo em produtos da Solve4ME, como <strong>Upload4ME</strong>, <strong>Tools4ME</strong> e aplicações de consulta à base de conhecimento de inteligência de bots de atendimento.</p>
+
+<p align="center"><strong>Front-end:</strong> uso <strong>React e TypeScript</strong> nas aplicações que desenvolvo.</p>
+
+<p align="center"><strong>Origem:</strong> venho de uma base sólida em Suporte e Infraestrutura de TI, com visão sistêmica de redes e monitoramento.</p>
+
+<h2 align="center">Tecnologias</h2>
 
 <table>
   <tr>
@@ -40,7 +49,7 @@ Sou desenvolvedor Back-end e atuo como **Full Stack**: trabalho com back-end, fr
   </tr>
 </table>
 
-## Formação
+<h2 align="center">Formação</h2>
 
 <table>
   <tr>
@@ -61,25 +70,25 @@ Sou desenvolvedor Back-end e atuo como **Full Stack**: trabalho com back-end, fr
   </tr>
 </table>
 
----
+<h2 align="center">Atividade</h2>
 
-## Atividade
+<p align="center">
+  <img src="assets/contributions.svg" alt="Contribuições no GitHub nos últimos 12 meses" width="860" />
+</p>
 
-<img src="assets/contributions.svg" alt="Contribuições no GitHub nos últimos 12 meses" width="860" />
+<h2 align="center">Linguagens</h2>
 
-## Linguagens
+<p align="center">
+  <img src="assets/languages.svg" alt="Linguagens mais usadas no GitHub" width="860" />
+</p>
 
-<img src="assets/languages.svg" alt="Linguagens mais usadas no GitHub" width="860" />
+<h2 align="center">Orbit</h2>
 
----
+<p align="center">
+  <a href="https://www.orbit-io.com.br/"><img src="assets/orbit.svg" alt="Orbit" height="48" /></a>
+</p>
 
-## Orbit
-
-<a href="https://www.orbit-io.com.br/">
-  <img src="assets/orbit.svg" alt="Orbit" height="48" align="left" />
-</a>
-
-Além do trabalho na Solve4ME, presto serviços de **sites, lojas virtuais e sistemas sob medida** pela
-[**Orbit**](https://www.orbit-io.com.br/).
-
-<br clear="left" />
+<p align="center">
+  Além do trabalho na Solve4ME, presto serviços de <strong>sites, lojas virtuais e sistemas sob medida</strong> pela
+  <a href="https://www.orbit-io.com.br/"><strong>Orbit</strong></a>.
+</p>
