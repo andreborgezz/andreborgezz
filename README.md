@@ -1,46 +1,42 @@
-# André Borges
+<img src="assets/banner.svg" alt="André Borges, Desenvolvedor Back-end" width="860" />
 
-Desenvolvedor Back-end na **Solve4ME** · Votorantim, SP
-
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
-<img src="https://img.shields.io/badge/Genesys_Cloud-FF4F1F?style=flat-square" alt="Genesys Cloud" />
-
----
+<a href="https://github.com/andreborgezz"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/andre-borgess"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.instagram.com/andreborgezz/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://www.orbit-io.com.br/"><img src="assets/orbit.svg" alt="Orbit" height="28" align="top" /></a>
 
 ## Sobre mim
 
-Sou desenvolvedor Back-end na **Solve4ME**, onde crio aplicações eficientes e integrações de APIs
-com **TypeScript, Node.js e PostgreSQL**.
+- **Back-end:** crio aplicações eficientes e integrações de APIs com **TypeScript, Node.js e PostgreSQL**.
+- **Genesys Cloud:** desenvolvo soluções com a Genesys Cloud API (Conversations, Auth, Data Actions, fluxos e áudios) e customizo aplicações para clientes.
+- **Infra e deploy:** gerencio aplicações em containers **Docker** na **AWS (EC2 e S3)**, com **CI/CD** e ambientes **Linux**.
+- **Produtos:** contribuo em produtos da Solve4ME, como **Upload4ME**, **Tools4ME** e aplicações de consulta à base de conhecimento de inteligência de bots de atendimento.
+- **Front-end:** uso **React e TypeScript** nas aplicações que desenvolvo.
+- **Origem:** venho de uma base sólida em Suporte e Infraestrutura de TI, com visão sistêmica de redes e monitoramento.
 
-Desenvolvo soluções com a **Genesys Cloud API**, como Conversations, Auth, Data Actions e integração
-de fluxos e áudios, além de customizar aplicações para clientes. Também faço o deploy e o
-gerenciamento dessas aplicações em containers **Docker** na **AWS (EC2 e S3)**, com **CI/CD** e
-ambientes **Linux**.
+## Tecnologias
 
-Tenho contribuições em produtos da empresa, como **Upload4ME**, **Tools4ME** e aplicações de
-consulta à base de conhecimento de inteligência de bots de atendimento.
-
-No Front-end, uso **React e TypeScript**. Venho de uma base sólida em Suporte e Infraestrutura de TI,
-o que me deu visão sistêmica de redes e monitoramento.
-
-### Principais tecnologias
-
-<img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,react,postgres,docker,aws,linux,githubactions,gcp,cloudflare" />
-<img src="assets/genesys.svg" alt="Genesys Cloud" height="48" />
-
-`TypeScript` · `JavaScript` · `Node.js` · `Express` · `React` · `PostgreSQL` · `Docker` · `Linux` · `CI/CD` · `AWS EC2` · `AWS S3` · `Google Cloud` · `Cloudflare` · `Genesys Cloud`
-
-### Outras ferramentas com que tenho experiência
-
-<img src="https://skillicons.dev/icons?i=java,spring,mysql" />
-
-`Java` · `Spring Boot` · `SQL Server` · `MySQL` · `Power BI`
-
----
+<table>
+  <tr>
+    <td width="150"><strong>Back-end</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,postgres" alt="TypeScript, JavaScript, Node.js, Express, PostgreSQL" /></td>
+  </tr>
+  <tr>
+    <td><strong>Front-end</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=react,ts" alt="React, TypeScript" /></td>
+  </tr>
+  <tr>
+    <td><strong>Infra e nuvem</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=docker,linux,githubactions,aws,gcp,cloudflare" alt="Docker, Linux, CI/CD, AWS, Google Cloud, Cloudflare" />
+      <img src="assets/genesys.svg" alt="Genesys Cloud" height="48" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Também conheço</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=java,spring,mysql" alt="Java, Spring Boot, MySQL" /> &nbsp;SQL Server · Power BI</td>
+  </tr>
+</table>
 
 ## Formação
 
@@ -85,20 +81,3 @@ Além do trabalho na Solve4ME, presto serviços de **sites, lojas virtuais e sis
 [**Orbit**](https://www.orbit-io.com.br/).
 
 <br clear="left" />
-
----
-
-## Contato
-
-<a href="https://github.com/andreborgezz">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://www.linkedin.com/in/andre-borgess">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://www.instagram.com/andreborgezz/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-<a href="https://www.orbit-io.com.br/">
-  <img src="assets/orbit.svg" alt="Orbit" height="28" align="top" />
-</a>
