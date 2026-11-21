@@ -1,4 +1,4 @@
-<img src="assets/banner.svg" alt="André Borges, Desenvolvedor Back-end" width="860" />
+<img src="assets/banner.svg" alt="André Borges, Desenvolvedor Back-end e Full Stack" width="860" />
 
 <a href="https://github.com/andreborgezz"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://www.linkedin.com/in/andre-borgess"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -6,6 +6,8 @@
 <a href="https://www.orbit-io.com.br/"><img src="assets/orbit.svg" alt="Orbit" height="28" align="top" /></a>
 
 ## Sobre mim
+
+Sou desenvolvedor Back-end e atuo como **Full Stack**: trabalho com back-end, front-end, infraestrutura e o que mais o projeto pedir.
 
 - **Back-end:** crio aplicações eficientes e integrações de APIs com **TypeScript, Node.js e PostgreSQL**.
 - **Genesys Cloud:** desenvolvo soluções com a Genesys Cloud API (Conversations, Auth, Data Actions, fluxos e áudios) e customizo aplicações para clientes.
@@ -19,7 +21,7 @@
 <table>
   <tr>
     <td width="150"><strong>Back-end</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,postgres" alt="TypeScript, JavaScript, Node.js, Express, PostgreSQL" /></td>
+    <td><img src="https://skillicons.dev/icons?i=ts,js,nodejs,postgres" alt="TypeScript, JavaScript, Node.js, PostgreSQL" /></td>
   </tr>
   <tr>
     <td><strong>Front-end</strong></td>
@@ -34,7 +36,7 @@
   </tr>
   <tr>
     <td><strong>Também conheço</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=java,spring,mysql" alt="Java, Spring Boot, MySQL" /> &nbsp;SQL Server · Power BI</td>
+    <td><img src="https://skillicons.dev/icons?i=java,spring,mysql" alt="Java, Spring Boot, MySQL" /></td>
   </tr>
 </table>
 
