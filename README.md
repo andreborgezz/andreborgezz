@@ -8,25 +8,11 @@ TypeScript · JavaScript · Node.js · PostgreSQL · Docker · AWS
 
 ## Sobre mim
 
-Sou desenvolvedor com experiência em **desenvolvimento Full Stack**, atualmente
-atuando como **Estagiário em Desenvolvimento na Solve4ME**, em **Votorantim - SP**.
+Sou estagiário em desenvolvimento na **Solve4ME**, em **Votorantim - SP**, onde desenvolvo
+soluções utilizando serviços e integrações com a **Genesys Cloud**, em projetos para grandes
+clientes como **Petrobras** e **Banco Safra**.
 
-No meu dia a dia, desenvolvo aplicações e integrações com o **Genesys Cloud**,
-criando soluções utilizadas em projetos para grandes clientes, como **Petrobras** e **Banco Safra**.
-
-Atualmente meu foco principal está no desenvolvimento **Backend com TypeScript e Node.js**,
-trabalhando com **APIs, integrações entre sistemas, bancos de dados, Docker e AWS**.
-
-### Orbit
-
-<a href="https://www.orbit-io.com.br/">
-  <img src="assets/orbit.svg" alt="Orbit" height="48" align="left" />
-</a>
-
-Além do trabalho na Solve4ME, presto serviços de **sites, lojas virtuais e sistemas sob medida** pela
-[**Orbit**](https://www.orbit-io.com.br/).
-
-<br clear="left" />
+No dia a dia trabalho com **TypeScript, React, Docker e AWS**.
 
 ### Principais tecnologias
 
@@ -50,6 +36,19 @@ Além do trabalho na Solve4ME, presto serviços de **sites, lojas virtuais e sis
 ## Linguagens por projeto
 
 <img src="assets/languages.svg" alt="Linguagens por projeto" width="860" />
+
+---
+
+## Orbit
+
+<a href="https://www.orbit-io.com.br/">
+  <img src="assets/orbit.svg" alt="Orbit" height="48" align="left" />
+</a>
+
+Além do trabalho na Solve4ME, presto serviços de **sites, lojas virtuais e sistemas sob medida** pela
+[**Orbit**](https://www.orbit-io.com.br/).
+
+<br clear="left" />
 
 ---
 
